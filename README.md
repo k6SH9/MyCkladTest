@@ -1,2 +1,2 @@
-# MyCkladTest
+# MySkladTest
 Test case for MySklad
